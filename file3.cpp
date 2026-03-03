@@ -24,5 +24,5 @@ int luasoersegip(int a, int b){
 void output(){ //mulai
     input();
     output();
-    cout << "hasil penjumlahan =" << jumlah(15,1,24.9,67);
+    cout << "hasil penjumlahan =" << jumlah(15,1 ,24.9, 67);
 } // selesai
