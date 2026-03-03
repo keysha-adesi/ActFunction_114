@@ -6,7 +6,7 @@ using namespace std;
 int p,l,luas;
 
 //implementasi prosedur dan fungsi 
-voidinput(){
+void input(){
     cout << "masukan panjang =";
     cin >> p;
     cout << "masukan lebar =";
